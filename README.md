@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou o Lucas, tenho 26 anos e sou natural do Rio de Janeiro.
 
 ---
 
